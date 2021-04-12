@@ -25,3 +25,7 @@
 * [태태](https://github.com/uuu1101)
 
 ## 목차
+- Closure
+- Generic
+- ARC
+- Type
