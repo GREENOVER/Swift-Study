@@ -24,8 +24,8 @@
 * [제이크](https://github.com/jryoun1)
 * [태태](https://github.com/uuu1101)
 
-## 목차
-- Closure
-- Generic
-- ARC
-- Type
+## 주차별 목차
+1. Closure
+2. Generic
+3. ARC
+4. Type
